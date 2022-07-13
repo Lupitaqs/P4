@@ -1036,6 +1036,14 @@ h4 {
         width: 180px;
         height: 320px;
     }
+
+    /* Added --- */
+    .social-align {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: space-between;
+    }
+    /* -------- */
 }
 
 @media (max-width: 400px) {
