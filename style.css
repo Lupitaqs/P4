@@ -1041,7 +1041,7 @@ h4 {
     .responsive-margin {
         margin-bottom:60px;
     }
-    
+
     .social-align {
         display: flex;
         flex-flow: row nowrap;
@@ -1051,6 +1051,16 @@ h4 {
     .portfolio-thumb {
         margin-left: auto;
         margin-right: auto;
+    }
+
+    .container-margin {
+        margin-left: 15px;
+        margin-right: 15px;
+        width: fit-content;
+    }
+
+    #submitBtn {
+        margin-bottom: 30px;
     }
     /* -------- */
 }
