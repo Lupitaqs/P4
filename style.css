@@ -843,6 +843,14 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+
+    /* --- Added ---- */
+    .container-margin {
+        margin-left: 5%;
+        margin-right: 5%;
+        width: fit-content;
+    }
+    /* -------------- */
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
